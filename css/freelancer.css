@@ -166,7 +166,7 @@ section h2 {
 }
 
 header.masthead {
-  padding-top: calc(6rem + 72px);
+  padding-top: 0 rem;
   padding-bottom: 6rem;
 }
 
@@ -321,8 +321,8 @@ form .row:first-child .floating-label-form-group {
 }
 
 .footer {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: #2C3E50;
   color: #fff;
 }
