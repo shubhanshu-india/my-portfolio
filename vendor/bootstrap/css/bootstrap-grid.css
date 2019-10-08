@@ -27,6 +27,14 @@ html {
   margin-left: auto;
 }
 
+.new{
+  width: 100%;
+  padding-right: 45px !important;
+  padding-left: 45px !important;
+  margin-right: 45px !important;
+  margin-left: 45px !important;
+}
+
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
