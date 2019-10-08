@@ -173,11 +173,11 @@ header.masthead h2 {
   margin-bottom: -15px;
 }
 .heading {
-  margin-top: 10%;
+  margin-top: -8%;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (min-width : 480px) {
   .heading{
-    margin-top:2% !important;
+    margin-top:10% !important;
   }
 }
 .portfolio .portfolio-item {
