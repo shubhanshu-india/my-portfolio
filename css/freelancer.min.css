@@ -178,12 +178,18 @@ header.masthead h2 {
 .mas {
   margin-top: 5%;
 }
+.new{
+  margin-bottom:1%;
+}
 @media only screen and (min-width: 480px) {
   .heading {
     margin-top: 10% !important;
   }
   .mas {
     margin-top: 2%;
+  }
+  .new{
+    margin-bottom: 8%;
   }
 }
 .portfolio .portfolio-item {
